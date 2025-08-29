@@ -1,0 +1,6 @@
+建立分支: git branch 自取的分支名稱 commit節點識別碼或標籤(p7-2)
+切換分支: 利用git checkout 分支名稱
+建立分支並切換分支: git checkout -b 自取的分支名稱 commit節點識別碼或標籤
+刪除分支: git branch -d分支名稱  [必須先切換到另一分支] 
+刪除還未合併的分支會顯示錯誤訊息
+更名分支: git branch -m 新的分支名稱 [必須先切換該分支]
