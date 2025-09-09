@@ -1,2 +1,5 @@
 花間一壺酒
 獨酌無相親
+
+對本地Git檔案庫做修改,送到遠端Git檔案庫
+git push --set-upstream origin master
